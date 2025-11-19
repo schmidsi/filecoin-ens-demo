@@ -1,7 +1,7 @@
 # Filecoin Onchain Cloud <> ENS
 
 [![Publish decentralized content with ENS and Filecoin
-Onchain Cloud](slides.png)](https://embed.figma.com/slides/a90Tn6ZLzG4RUWKYXvRAZR/Filecoin-%3C%3E-ENS-at-Code-n--Corgi---DevConnect-2025?node-id=3-7107&embed-host=share)
+Onchain Cloud](slides.png)](https://www.figma.com/slides/a90Tn6ZLzG4RUWKYXvRAZR/Filecoin-%3C%3E-ENS-at-Code-n--Corgi---DevConnect-2025?node-id=2-6433&t=5FmvIp0V73RAdsLu-1)
 
 ## Simplest happy path
 1. Create a HTML file called `index.html`. To keep things simple, everything is inline.
