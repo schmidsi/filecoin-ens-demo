@@ -12,12 +12,14 @@ Onchain Cloud](slides.png)](https://embed.figma.com/slides/a90Tn6ZLzG4RUWKYXvRAZ
 1. `npm i -g omnipin`
 2. Set .env
 ```
-OMNIPIN_FILECOIN_TOKEN=[hidden]
-OMNIPIN_FILECOIN_SP_URL=https://main.ezpdpz.net
-OMNIPIN_FILECOIN_SP_ADDRESS=0x32c90c26bCA6eD3945De9b29BA4e19D38314D618
+export OMNIPIN_FILECOIN_TOKEN=[hidden]
+export OMNIPIN_PK=[hidden]
+export OMNIPIN_FILECOIN_SP_URL=https://main.ezpdpz.net
+export OMNIPIN_FILECOIN_SP_ADDRESS=0x32c90c26bCA6eD3945De9b29BA4e19D38314D618
 ```
 3. `source .env`
-4. `omnipin deploy --providers Filecoin`
+4. Create `/dist` folder and move the `index.html` file there
+5. `omnipin deploy --providers Filecoin`
 
 ## Using Synapse SDK and ENSjs (WIP)
 - https://docs.filecoin.cloud/getting-started/#finding-service-providers 
